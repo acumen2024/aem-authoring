@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/phoenix-eds/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json"
+    "/content/aem-authoring/:/",
+    "/content/aem-authoring/configuration:/.helix/config.json"
   ]
 }
