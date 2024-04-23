@@ -204,5 +204,17 @@
          "value": ""
        }
      ]
-  }  
+  },
+   {
+    "id": "helloworld",
+    "fields": [
+      {
+        "component": "text",
+        "name": "text",
+        "value": "",
+        "label": "text",
+        "valueType": "string"
+      }
+    ]
+  }
 ]
