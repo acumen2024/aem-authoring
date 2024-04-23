@@ -29,6 +29,18 @@
           }
         },
         {
+          "title": "Helloworld",
+          "id": "helloworld",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "/apps/wknd/components/helloworld",
+                "template": {}
+              }
+            }
+          }
+        },
+        {
           "title": "Image",
           "id": "image",
           "plugins": {
