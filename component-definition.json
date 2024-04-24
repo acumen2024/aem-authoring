@@ -52,6 +52,18 @@
             }
           }
         },
+         {
+          "title": "ExperienceFragment",
+          "id": "experiencefragment",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "/apps/wknd/components/experiencefragment",
+                "template": {}
+              }
+            }
+          }
+        },
         {
           "title": "Image",
           "id": "image",
