@@ -226,6 +226,13 @@
         "value": "",
         "label": "text",
         "valueType": "string"
+      },
+      {
+        "component": "aem-experience-fragment",
+        "name": "picker",
+        "label": "Experience Fragment Picker",
+        "valueType": "string",
+        "variationName": "experienceFragmentVariation"
       }
     ]
   },
