@@ -229,7 +229,7 @@
       },
       {
         "component": "aem-experience-fragment",
-        "name": "picker",
+        "name": "fragmentVariationPath",
         "label": "Experience Fragment Picker",
         "valueType": "string",
         "variationName": "experienceFragmentVariation"
@@ -241,7 +241,7 @@
     "fields": [
       {
         "component": "aem-experience-fragment",
-        "name": "picker",
+        "name": "fragmentVariationPath",
         "label": "Experience Fragment Picker",
         "valueType": "string",
         "variationName": "experienceFragmentVariation"
