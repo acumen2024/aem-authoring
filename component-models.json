@@ -228,11 +228,11 @@
         "valueType": "string"
       },
       {
-        "component": "aem-experience-fragment",
-        "name": "fragmentVariationPath",
-        "label": "Experience Fragment Picker",
-        "valueType": "string",
-        "variationName": "experienceFragmentVariation"
+      "component": "aem-content",
+      "name": "reference",
+      "value": "",
+      "label": "AEM Content Picker",
+      "valueType": "string"
       }
     ]
   },
