@@ -232,7 +232,8 @@
       "name": "reference",
       "value": "",
       "label": "AEM Content Picker",
-      "valueType": "string"
+      "valueType": "string",
+      "multi": true
       }
     ]
   },
