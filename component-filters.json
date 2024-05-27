@@ -16,6 +16,7 @@
       "image",
       "button",
       "title",
+      "fragment",
       "helloworld",
       "helloworldtest",
       "experiencefragment"
@@ -29,6 +30,7 @@
       "button",
       "title",
       "hero",
+      "fragment",
       "cards",
       "columns",
       "quote",
