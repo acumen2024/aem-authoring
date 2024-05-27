@@ -206,6 +206,18 @@
      ]
   },
   {
+    "id": "fragment",
+    "fields": [
+       {
+      "component": "aem-content",
+      "name": "reference",
+      "value": "",
+      "label": "AEM Content Picker",
+      "valueType": "string"
+      }
+    ]
+  },
+  {
     "id": "helloworld",
     "fields": [
       {
